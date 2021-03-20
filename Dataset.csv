@@ -1,0 +1,36 @@
+Id,Document,Class
+1,Search a sorted array by repeatedly dividing the search interval in half,cs
+2,data structure is a particular way of organizing data in a computer so that it can be used effectively,cs
+3,linked list is represented by a pointer to the first node of the linked list,cs
+4,The left and right subtree each must also be a binary search tree,cs
+5,Machine Learning is the field of study that gives computers the capability to learn without being explicitly programmed,cs
+6,Linear Regression is a machine learning algorithm based on supervised learning,cs
+7,Regression models a target prediction value based on independent variables,cs
+8,"Like arrays, Linked List is a linear data structure",cs
+9,Extra memory space for a pointer is required with each element of the list,cs
+10,Gradient Descent is an optimization algorithm used for minimizing the cost function in various machine learning algorithms,cs
+11,to make computers intelligent so that they can act intelligently,cs
+12,students get confused between Machine Learning and Artificial Intelligence,cs
+13,actual data mining task is the semi-automatic or automatic analysis of large quantities of data,cs
+14,Clustering is the task of discovering groups and structures in the data,cs
+15,Classification is the task of generalizing known structure to apply to new data,cs
+16,Decision tree is the most powerful and popular tool for classification and prediction,cs
+17,Naive Bayes classifiers are a collection of classification algorithms based on Bayes’ Theorem,cs
+18,Deep learning is part of a broader family of machine learning methods based on artificial neural networks,cs
+19,Computer vision is an interdisciplinary scientific field that deals with how computers can gain high-level understanding from digital images or videos,cs
+20,Natural language processing (NLP) is concerned with the interactions between computers and human language,cs
+21,Account management is a post-sales role that focuses on nurturing client relationships,non-cs
+22,"Little Spoon delivers fresh, organic baby food that's personalized to your baby's nutritional needs",non-cs
+23,"With the AARMY subscription, get unlimited access to hundreds of workouts",non-cs
+24,Sustainable home essentials delivered to your doorstep with Grove Collaborative eco-friendly household cleaning products.,non-cs
+25,"Average savings of $2,500 compared to other lender's fees and closing costs",non-cs
+26,"If you are unable to make it to a safe shelter, get down in your car and cover your head or abandon your car and seek shelter",non-cs
+27,business administration covers the breadth of business-related disciplines as defined in the business core curriculum,non-cs
+28,"Pranayama arouses the internal energy of a person and makes him healthy, balanced and active",non-cs
+29,TORNADO WARNING means that a tornado has been sighted or indicated by weather radar,non-cs
+30,"Commerce Bank offers personal and business banking, checking, mortgages, loans, investing, credit cards",non-cs
+31,"commerce refers to the exchange of goods, services, or something of value, between businesses or entities",non-cs
+32,"Having health insurance coverage can save you money on doctor's visits, prescriptions drugs, preventative care",non-cs
+33,Architecture is the art and science of designing buildings andnonbuilding structures,non-cs
+34,Scientific evidence demonstrates that wearing face masks and implementing lockdowns reduce the spread of COVID-19,non-cs
+35,"Sport performance is a complex mixture of biomechanical function, emotional factors, and training techniques",non-cs
